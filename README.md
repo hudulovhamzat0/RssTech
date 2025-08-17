@@ -9,7 +9,7 @@
 [![RSS](https://img.shields.io/badge/RSS-2.0-FF6600?style=for-the-badge&logo=rss&logoColor=white)](https://www.rssboard.org/rss-specification)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-[🎮 Live Demo]([https://your-deployment-url.com](https://rsstech.onrender.com/)) • [📚 Documentation](#documentation) • [🐛 Report Bug](https://github.com/hudulovhamzat0/rsstech/issues) • [✨ Request Feature](https://github.com/hudulovhamzat0/rsstech/issues)
+[🎮 Live Demo](https://rsstech.onrender.com/) • [📚 Documentation](#documentation) • [🐛 Report Bug](https://github.com/hudulovhamzat0/rsstech/issues) • [✨ Request Feature](https://github.com/hudulovhamzat0/rsstech/issues)
 
 </div>
 
